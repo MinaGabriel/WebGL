@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0eae25c2-1d07-4ae1-ac2e-3927e9095ddf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Instructor/ch02_tri_sqr_rendering-modes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instructor/ch02_triangle_arrays.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +69,7 @@
       <workItem from="1597433688856" duration="474000" />
       <workItem from="1598364492519" duration="18699000" />
       <workItem from="1598976347909" duration="427000" />
+      <workItem from="1598977072202" duration="391000" />
     </task>
     <servers />
   </component>
@@ -90,6 +89,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2391" y="240" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598989651404">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2391" y="240" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.23.1920.1057/34.23.1886.1057@1920.23.1920.1057" timestamp="1598989651404" />
     <state x="2587" y="140" width="586" height="822" key="find.popup" timestamp="1598367807016">
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>
