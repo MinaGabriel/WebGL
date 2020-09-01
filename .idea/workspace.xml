@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eae25c2-1d07-4ae1-ac2e-3927e9095ddf" name="Default Changelist" comment="" />
+    <list default="true" id="0eae25c2-1d07-4ae1-ac2e-3927e9095ddf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Instructor/ch02_tri_sqr_rendering-modes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instructor/ch02_triangle_arrays.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +69,8 @@
       <workItem from="1595949727470" duration="4163000" />
       <workItem from="1596544405767" duration="3788000" />
       <workItem from="1597433688856" duration="474000" />
-      <workItem from="1598364492519" duration="1817000" />
+      <workItem from="1598364492519" duration="18699000" />
+      <workItem from="1598976347909" duration="427000" />
     </task>
     <servers />
   </component>
@@ -83,5 +88,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2587" y="140" width="586" height="822" key="find.popup" timestamp="1598367807016">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2587" y="140" width="586" height="822" key="find.popup/1920.23.1920.1057/40.23.1880.1057@1920.23.1920.1057" timestamp="1598367807016" />
   </component>
 </project>
