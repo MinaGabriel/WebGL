@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0eae25c2-1d07-4ae1-ac2e-3927e9095ddf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise/practice.html" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/practice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/ch01_04_showroom.html" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/ch01_04_showroom.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +55,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RunManager">
+    <configuration name="ch01_04_showroom.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebGL/ch01/ch01_04_showroom.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.ch01_04_showroom.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -72,6 +84,7 @@
       <workItem from="1598977072202" duration="647000" />
       <workItem from="1598994406289" duration="291000" />
       <workItem from="1599159448972" duration="488000" />
+      <workItem from="1599161249942" duration="1752000" />
     </task>
     <servers />
   </component>
@@ -95,9 +108,10 @@
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state x="2391" y="240" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.23.1920.1057/34.23.1886.1057@1920.23.1920.1057" timestamp="1598989651404" />
-    <state x="2587" y="140" width="586" height="822" key="find.popup" timestamp="1598367807016">
-      <screen x="1920" y="23" width="1920" height="1057" />
+    <state x="-1253" y="140" width="586" height="822" key="find.popup" timestamp="1599161759512">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
+    <state x="-1253" y="140" width="586" height="822" key="find.popup/0.23.1680.1027/-1920.23.1920.1057/-3791.23.1871.1057@-1920.23.1920.1057" timestamp="1599161759512" />
     <state x="2587" y="140" width="586" height="822" key="find.popup/1920.23.1920.1057/40.23.1880.1057@1920.23.1920.1057" timestamp="1598367807016" />
   </component>
 </project>
